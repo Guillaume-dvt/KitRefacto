@@ -1,0 +1,4 @@
+data/ventes_propres.csv
+data/total_par_*.csv
+__pycache__/
+.venv/

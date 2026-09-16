@@ -1,0 +1,124 @@
+id;date;ville;produit;quantite;prix_unitaire
+1;2026-06-05;Lille;Clavier;4;165.22
+2;2026-06-19;lille ;Clavier;1;227.33
+3;2026-02-14;Lille;Casque;4;25.77
+4;2026-01-27;lille ;Clavier;5;38.71
+5;2026-10-19;lille ;Clavier;4;20.9
+6;2026-09-28;lille ;Clavier;2;78.51
+7;2026-10-10;lille ;Clavier;5;204.87
+8;2026-10-19;Lille;Clavier;6;54.09
+9;2026-10-02;Douai;Casque;5;58.43
+10;2026-06-15;Valenciennes;Écran;5;230.63
+11;2026-04-26;lille ;Clavier;2;176.76
+12;2026-10-10;Valenciennes;Casque;5;127.83
+13;2026-05-20;VALENCIENNES;Souris;1;37.34
+14;2026-06-05;Douai;Clavier;4;110.21
+15;2026-09-19;Valenciennes;Casque;3;90.63
+16;2026-10-26;Lille;Écran;4;25.5
+17;2026/08/23;Douai;Écran;6;24.6
+18;2026-11-19;Valenciennes;Casque;6;206.26
+19;2026-11-12;Valenciennes;Souris;1;234.76
+20;2026-10-04;;Écran;4;23.15
+21;2026-03-24;;Casque;2;104.5
+22;2026-02-06;Valenciennes;Souris;5;105.39
+23;2026-07-28;VALENCIENNES;Écran;5;75,82
+24;2026-11-13;lille ;Souris;2;45.22
+25;2026-04-22;;Souris;2;11.9
+26;2026-05-10;Arras;Écran;1;43.96
+27;2026-10-19;Douai;Clavier;3;237.74
+28;2026-08-28;VALENCIENNES;Casque;6;200.49
+29;2026-07-13;VALENCIENNES;Clavier;1;124.57
+30;2026-04-03;Lille;Écran;2;114.75
+31;2026-10-02;lille ;Clavier;1;9.06
+32;2026-06-20;lille ;Casque;1;25.88
+33;2026-03-21;Arras;Écran;3;238.31
+34;2026/08/04;VALENCIENNES;Casque;1;212.74
+35;2026-08-10;Douai;Écran;1;43.59
+36;2026-05-16;Lille;Souris;6;47.75
+37;2026-09-12;Lille;Écran;2;174.62
+38;2026-11-28;Valenciennes;Écran;1;176.09
+39;2026-03-12;;Écran;2;136.82
+40;2026-11-08;;Souris;5;203.76
+41;2026-04-27;lille ;Souris;4;186.57
+42;2026-09-16;Lille;Écran;3;184.44
+43;2026-08-09;Valenciennes;Casque;2;175.21
+44;2026-06-12;lille ;Casque;1;61.91
+45;2026-04-11;Arras;Clavier;2;124.84
+46;2026-08-21;Lille;Clavier;3;200,91
+47;2026-07-26;VALENCIENNES;Souris;6;189.03
+48;2026-07-26;;Casque;6;88.8
+49;2026-08-13;Douai;Souris;6;236.23
+50;2026-03-05;VALENCIENNES;Souris;1;45.28
+51;2026/10/27;Douai;Écran;5;244.27
+52;2026-03-18;Lille;Clavier;5;40.44
+53;2026-09-24;;Souris;2;113.11
+54;2026-04-01;Arras;Souris;3;60.07
+55;2026-10-11;;Souris;3;139.64
+56;2026-01-24;Douai;Casque;3;224.45
+57;2026-09-05;Arras;Clavier;5;45.44
+58;2026-08-25;;Souris;2;155.05
+59;2026-03-05;Lille;Clavier;4;157.58
+60;2026-06-22;VALENCIENNES;Clavier;5;136.37
+61;2026-09-02;Lille;Clavier;2;54.91
+62;2026-09-15;Lille;Casque;5;15.69
+63;2026-06-20;lille ;Écran;5;154.47
+64;2026-08-17;Arras;Souris;5;202.77
+65;2026-09-09;lille ;Casque;5;223.26
+66;2026-03-14;Valenciennes;Clavier;1;103.17
+67;2026-11-08;Douai;Écran;4;26.55
+68;2026/02/25;Douai;Écran;2;234.48
+69;2026-03-09;lille ;Clavier;2;241,21
+70;2026-07-16;;Souris;2;246.57
+71;2026-03-23;VALENCIENNES;Écran;4;247.58
+72;2026-07-07;Douai;Écran;3;85.45
+73;2026-01-11;Douai;Clavier;5;119.08
+74;2026-07-11;Arras;Clavier;5;158.74
+75;2026-02-26;Lille;Clavier;2;242.21
+76;2026-05-09;lille ;Écran;1;226.42
+77;2026-03-27;Douai;Écran;5;212.9
+78;2026-07-05;Arras;Casque;5;229.6
+79;2026-06-03;Douai;Souris;3;22.81
+80;2026-07-03;Douai;Clavier;3;234.2
+81;2026-05-03;Lille;Écran;5;214.49
+82;2026-02-15;Arras;Casque;1;90.4
+83;2026-05-20;Douai;Souris;2;19.37
+84;2026-02-06;lille ;Écran;3;21.09
+85;2026/11/10;Valenciennes;Casque;5;191.28
+86;2026-09-22;;Clavier;2;73.93
+87;2026-05-02;Arras;Souris;1;13.42
+88;2026-09-16;Lille;Casque;2;233.31
+89;2026-11-16;VALENCIENNES;Écran;5;209.31
+90;2026-04-08;Douai;Souris;3;56.67
+91;2026-07-12;Lille;Clavier;1;209.88
+92;2026-11-24;Lille;Clavier;3;112,38
+93;2026-11-27;Douai;Écran;4;217.93
+94;2026-10-08;VALENCIENNES;Souris;6;79.33
+95;2026-03-09;Valenciennes;Écran;4;9.87
+96;2026-09-11;Valenciennes;Souris;2;17.27
+97;2026-06-06;Lille;Casque;1;89.48
+98;2026-05-17;Arras;Clavier;6;57.24
+99;2026-02-09;Arras;Clavier;1;43.53
+100;2026-07-01;lille ;Clavier;3;82.02
+101;2026-10-17;Douai;Casque;2;166.81
+102;2026/06/24;Douai;Souris;4;44.87
+103;2026-01-27;Douai;Casque;6;223.07
+104;2026-09-05;Arras;Clavier;5;189.69
+105;2026-11-19;Douai;Souris;6;172.89
+106;2026-02-01;Valenciennes;Clavier;1;40.94
+107;2026-07-27;Douai;Clavier;4;143.05
+108;2026-11-18;Valenciennes;Clavier;6;67.69
+109;2026-08-26;Arras;Clavier;1;188.58
+110;2026-11-17;VALENCIENNES;Écran;1;187.97
+111;2026-02-28;;Souris;3;65.35
+112;2026-04-24;VALENCIENNES;Casque;6;243.18
+113;2026-02-16;Lille;Souris;6;77.96
+114;2026-02-20;Douai;Écran;2;88.63
+115;2026-10-19;Lille;Casque;2;11,99
+116;2026-05-22;Douai;Casque;1;175.12
+117;2026-05-23;VALENCIENNES;Casque;5;77.53
+118;2026-02-18;Lille;Casque;2;83.8
+119;2026/01/10;Arras;Casque;4;27.35
+120;2026-05-13;lille ;Clavier;2;228.97
+5;2026-10-19;lille ;Clavier;4;20.9
+10;2026-06-15;Valenciennes;Écran;5;230.63
+31;2026-10-02;lille ;Clavier;1;9.06
